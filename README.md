@@ -1,3 +1,6 @@
+<!-- moved-to-monorepo -->
+> **Moved to [probityai/probity/packages/evaluator-replay-kit](https://github.com/probityai/probity/tree/main/packages/evaluator-replay-kit). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working.
+
 # evaluator-replay-kit
 
 Replay a lab-produced agent action record: recompute its digest chain and flag a changed step (tamper) or a missing one (gap).

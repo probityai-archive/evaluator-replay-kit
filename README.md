@@ -1,5 +1,5 @@
 <!-- moved-to-monorepo -->
-> **Moved to [probityai/probity/packages/evaluator-replay-kit](https://github.com/probityai/probity/tree/main/packages/evaluator-replay-kit). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working.
+> **Moved to [probityai/probity/packages/agent-evidence-replay](https://github.com/probityai/probity/tree/main/packages/agent-evidence-replay). Star and follow it there.** This repository is archived and has no planned delete date; its tags and releases keep working.
 
 # evaluator-replay-kit
 
